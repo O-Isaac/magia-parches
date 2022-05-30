@@ -2,11 +2,11 @@
     {
         "file_list": [
             {
-                "size": 6088, 
+                "size": 3145, 
                 "url": "image_native/scene/download/char_list.json"
             }
         ], 
-        "md5": "49d54edc370d0ce610898c1e25da31e5", 
+        "md5": "12adeac6bb6eb362fa990e622f9da32a", 
         "path": "image_native/scene/download/char_list.json"
     }, 
     {
