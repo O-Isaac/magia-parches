@@ -13,26 +13,11 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  deployment:
+  Enviado_cambios:
     runs-on: ubuntu-latest
-    
     steps:
-    - uses: actions/checkout@v3
-      with:
-        fetch-depth: 0
-    
     - name: Deploy Changes
       uses: fjogeleit/http-request-action@v1
       with:
         url: ${{ secrets.ENDPOINT_URL }}
         method: 'GET'
-    
-    - name: Get files changes
-      id: changed-files
-      uses: tj-actions/changed-files@v22.1
-
-    - name: List all changes
-      run: |
-          for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
-            echo "$file was changed"
-          done 
