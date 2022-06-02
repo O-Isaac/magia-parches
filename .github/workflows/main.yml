@@ -21,3 +21,9 @@ jobs:
       with:
         url: ${{ secrets.ENDPOINT_URL }}
         method: 'GET'
+    - name: Discord notification
+      env:
+        DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+      uses: Ilshidur/action-discord@master
+      with:
+        args: 'El juego se ha actualizado con los datos del repositorio. {{ EVENT_PAYLOAD.repository.full_name }}'
