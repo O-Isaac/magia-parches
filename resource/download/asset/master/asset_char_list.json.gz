@@ -2,32 +2,32 @@
     {
         "file_list": [
             {
-                "size": 3145, 
+                "size": 5388, 
                 "url": "image_native/scene/download/char_list.json"
             }
         ], 
-        "md5": "12adeac6bb6eb362fa990e622f9da32b", 
+        "md5": "d9a48bd7f5d1d275bc544159cafbb81d", 
         "path": "image_native/scene/download/char_list.json"
     }, 
     {
         "file_list": [
             {
-                "size": 113718, 
-                "url": "image_native/card/image/card_40044_m.png"
+                "size": 103143, 
+                "url": "image_native/card/image/card_13094_m.png"
             }
         ], 
-        "md5": "BA0D659B535CCEC9ADA6B78C19535811", 
-        "path": "image_native/card/image/card_40044_m.png"
+        "md5": "a85a3c74081b3254e09e4f639633f9b7", 
+        "path": "image_native/card/image/card_13094_m.png"
     }, 
     {
         "file_list": [
             {
-                "size": 240303, 
-                "url": "image_native/card/image/card_40044_l.png"
+                "size": 225867, 
+                "url": "image_native/card/image/card_13094_l.png"
             }
         ], 
-        "md5": "0BCBCE49492CEF3D14ED8419E5087102", 
-        "path": "image_native/card/image/card_40044_l.png"
+        "md5": "59e56561fa7154d492f0884f3fa4438f", 
+        "path": "image_native/card/image/card_13094_l.png"
     }, 
     {
         "file_list": [
