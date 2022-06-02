@@ -1,65 +1,92 @@
 [
 	{
-		"id": 40044,
+		"id": 13094,
 		"default": true,
-		"name": "Oriko Mikuni Final ver.",
-		"desc": "Una chica mágica que finalmente encontró el \"significado de su vida\". Al reconocer y aceptar el que está grabado en su corazón, despertó a un nuevo poder y encontró la claridad del corazón. Le gustaría desarrollar su habilidad para hornear bizcochos.",
-		"cv": "Saori Hayami"
+		"name": "Rena Minami Anime ver.",
+		"desc": "Una chica mágica que trabaja en equipo con Momoko y Kaede, tiene una personalidad torpe que le impide expresar honestamente sus pensamientos, lo que hace que sea fácilmente incomprendida y hacer amigos. A menudo se mete en peleas con Kaede, pero también tiene un lado simpático, ya que atesora sus correas a juego.",
+		"cv": "Kaori Ishihara"
 	},
 	{
-		"id": 10011,
+		"id": 10324,
+		"default": true,
+		"name": "Miyuri Yukari",
+		"desc": "Una tímida Chica Mágica perteneciente a las Neo Magius. Cuando se pone nerviosa, su conciencia vuela, por lo que San controla esto para que las cosas no se salgan de control durante la batalla. Aprovechando su naturaleza, funciona como arma secreta de San. También tiene una fuerte apreciación para las piernas.",
+		"cv": " Hikaru Iida"
+	},
+	{
+		"id": 10274,
+		"default": true,
+		"name": "Sunao Toki",
+		"desc": "Una chica mágica que fue asesina del clan Tokime. Se preocupa a menudo, es considerada y sabe escuchar. Es muy adorada por los adultos de las aldeas y pueblos, y a menudo la miman como a una hermana mayor. Todavía está atormentada por su pasado, y a veces ve sombras oscuras.",
+		"cv": "Aguri Oonishi"
+	},
+	{
+		"id": 10234,
+		"default": true,
+		"name": "Ao Kasane",
+		"desc": "Es una de las tres hermanas que lideran Promised Blood y una chica mágica a la que se le dan bien las tácticas. Provoca a los demás con su actitud arrogante, pero en su interior es una persona cauta que analiza con calma su entorno. Por esta razón, a menudo puede hartarse del comportamiento impulsivo de sus hermanas. Le gusta jugar y leer libros sola.",
+		"cv": "Satomi Amano"
+	},
+	{
+		"id": 30324,
+		"default": true,
+		"name": "Mayu Kazue",
+		"desc": "Una cautivadora Chica Mágica que, sin saberlo, atrae la atención de los hombres. Su admiración por las figuras paternas le da una tendencia a actuar con despreocupación ante los hombres mayores. Adquirió su amor por el arte gracias a su difunto padre, por lo que tiene la intención de trabajar en la restauración de arte así que se consiguió un trabajo en un museo de arte para realizar ese sueño.",
+		"cv": "Yuka Aisaka"
+	},
+	{	"id": 10011,
 		"default": true,
 		"name": "Iroha Tamaki",
-		"desc": "Iroha came to Kamihama to investigate strange dreams she was having. Kind-hearted, she tends to worry too much about others. She's not up on the latest trends and isn't good with her phone. Usually reserved, she can be a fighter when it matters most.",
+		"desc": "Iroha acudió a Kamihama para investigar los extraños sueños que estaba teniendo. De buen corazón, tiende a preocuparse demasiado por los demás. No está al tanto de las últimas tendencias y no es buena con su teléfono. Normalmente es reservada, pero puede ser una útil cuando más importa.",
 		"cv": "Momo Asakura"
 	},
 	{
 		"id": 10022,
 		"default": true,
 		"name": "Yachiyo Nanami",
-		"desc": "A seasoned Magical Girl who has fought Witches for 7 years in Kamihama. Yachiyo is well informed about the city and Magical Girls in general. She keeps her distance from other Magical Girls while she compiles files on the Rumors of Kamihama City.",
+		"desc": "Una Chica Mágica experimentada que ha luchado contra las brujas durante 7 años en Kamihama. Yachiyo está bien informada sobre la ciudad y las Chicas Mágicas en general. Se mantiene alejada de otras Chicas Mágicas mientras recopila archivos sobre los rumores de la ciudad de Kamihama.",
 		"cv": "Sora Amamiya"
 	},
 	{
 		"id": 10032,
 		"default": true,
 		"name": "Tsuruno Yui",
-		"desc": "A reckless Magical Girl who's full of energy. Tsuruno loves her family, especially her grandfather and great-grandfather, who lead the Yuis to their former prosperity. She fights to become the strongest Magical Girl in order to restore the Yui name.",
+		"desc": "Una Chica Mágica temeraria y llena de energía. Tsuruno ama a su familia, especialmente a su abuelo y bisabuelo, que llevaron a los Yuis a su antigua prosperidad. Lucha por convertirse en la Chica Mágica más fuerte para restaurar el nombre de los Yui.",
 		"cv": "Shiina Natsukawa"
 	},
 	{
 		"id": 10094,
 		"default": true,
 		"name": "Rena Minami",
-		"desc": "A Magical Girl who has trouble opening up to others. Rena acts cocky to make up for her lack of self-confidence, which leads people who don't know her well to misunderstanding her. She's a picky eater and loves sweets. She is also a big fan of idols.",
+		"desc": "Una Chica Mágica a la que le cuesta abrirse a los demás. Rena actúa con arrogancia para compensar su falta de confianza en sí misma, lo que hace que la gente que no la conoce bien la malinterprete. Es muy exigente con la comida y le encantan los dulces. También es una gran fan de las idols.",
 		"cv": "Kaori Ishihara"
 	},
 	{
 		"id": 10104,
 		"default": true,
 		"name": "Momoko Togame",
-		"desc": "A Magical Girl who is always looking out for rookies. The middle child, Momoko was influenced by her two brothers' boyishness, but she loves cute, girly things like stuffed animals. Because she loves cute things she's also a fan of female idols.",
+		"desc": "Una Chica Mágica que siempre está pendiente de los novatos. Momoko, la del medio, se vio influenciada por el carácter masculino de sus dos hermanos, pero le encantan las cosas bonitas y femeninas, como los peluches. Como le gustan las cosas bonitas, también es fan de las idols femeninas.",
 		"cv": "Mikako Komatsu"
 	},
 	{
 		"id": 10113,
 		"default": true,
 		"name": "Kaede Akino",
-		"desc": "A worrywart, Kaede is easily scared. She is also kind, caring, and ready to take risks for her friends. She loves animals, plants, and insects, and nature in general. She enjoys gardening, and though she's not good at them, she likes UFO Catchers.",
+		"desc": "Preocupona, Kaede se asusta con facilidad. También es amable, cariñosa y está dispuesta a correr riesgos por sus amigos. Le encantan los animales, las plantas y los insectos, y la naturaleza en general. Le gusta la jardinería y, aunque no se le da bien, le gustan los cazadores de ovnis.",
 		"cv": "Ayaka Oohashi"
 	},
 	{
 		"id": 10052,
 		"default": true,
 		"name": "Felicia Mitsuki",
-		"desc": "Felicia is a spirited Magical Girl, full of energy and determination, who hates Witches for taking the lives of her parents. She now works as a mercenary, hunting Witches all across Kamihama. Her tough talk hides a kind heart and a love of animals.",
+		"desc": "Felicia es una Chica Mágica enérgica, llena de energía y determinación, que odia a las brujas por haber acabado con la vida de sus padres. Ahora trabaja como mercenaria, cazando brujas por todo Kamihama. Su lenguaje duro esconde un corazón bondadoso y un amor por los animales.",
 		"cv": "Ayane Sakura"
 	},
 	{
 		"id": 10042,
 		"default": true,
 		"name": "Sana Futaba",
-		"desc": "A pessimistic Magical Girl, Sana was rejected by her family and those around her, so she has hardly any self-confidence. However, she'll quietly stand by the people who need her, ready to help them when the time comes.",
+		"desc": "Chica Mágica pesimista. Sana fue rechazada por su familia y por quienes la rodean, por lo que apenas tiene confianza en sí misma. Sin embargo, permanecerá en silencio junto a las personas que la necesiten, dispuesta a ayudarlas cuando llegue el momento.",
 		"cv": "Yui Ogura"
 	}
 ]
